@@ -10,9 +10,10 @@
 ![image](https://github.com/annimukherjee/Responsible_Explainable_AI/assets/85307430/91a44f98-72e6-4c00-8c7d-bb922f5cd9c2)
 
 
-## Invotive Approach
+## Innovative Approach
 
 **Explainable Boosting Classifier (EBC) from InterpretML**
+<br><br>
 _Global Explanation:_ Analysis of feature importance in model prediction.
 
 
